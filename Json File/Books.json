@@ -1,0 +1,8 @@
+{
+    "isbn":"1234",
+    "title" :"Book- One",
+    "author" : "Author-1",
+    "description": "Random Description",
+    "Reviews" : "GooD",
+    "price" : "20.02"
+}

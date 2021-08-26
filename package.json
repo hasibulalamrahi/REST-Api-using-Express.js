@@ -1,0 +1,28 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "This is a simple REST api using Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasibulalamrahi/REST-Api-using-Express.js.git"
+  },
+  "keywords": [
+    "Hasibul",
+    "Alam",
+    "Rahi"
+  ],
+  "author": "Hasibul Alam Rahi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hasibulalamrahi/REST-Api-using-Express.js/issues"
+  },
+  "homepage": "https://github.com/hasibulalamrahi/REST-Api-using-Express.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
